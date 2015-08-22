@@ -1,0 +1,23 @@
+The sheet sir has given contains the follwing things 
+1) Energy 
+2) ZCR 
+3) Low frequency ranges (0-1kHZ)
+Spectrogram: Window
+Speech Signal 
+Transcription
+
+Things to be done:
+1) 5 sentences for all teams (I think we should from one of the databases)
+
+[We will create a folder named 'lab1_practise_sentecenes' with above 5 wav files, it will be useful to upload in moodle easily]
+
+2) Testing Phase
+
+We need to select the 10 more senteces and prepare the following things for each of them
+
+(i) Eneregy (STE)
+(ii) ZCR 
+(iii) Low-frequency 
+
+I will look for matlab code for STE and ZCR. 
+Can you see how to do Low freq. 
